@@ -14,6 +14,14 @@ I specialize in **full-stack development**, with a strong focus on:
 
 ### 🛠️ Languages and Tools
 
+<style>
+    /* hides empty table header */
+    thead th:empty {
+        border: thin solid red !important;
+        display: none;
+    }
+</style>
+
 These are some of the tools that I use day-to-day.
 
 |||
